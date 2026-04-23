@@ -47,13 +47,13 @@ Actively looking for **DevSecOps / Backend roles in Milano**.
 
 ## 🔐 DevSecOps Focus
 
-- SAST: Semgrep, SonarQube  
-- SCA: Trivy, Syft/Grype  
-- IaC Security: Checkov, KICS  
-- Container Security: Trivy, Docker Bench  
-- SBOM generation & automation  
-- GitHub Actions / GitLab CI pipelines  
-- Secrets scanning & policy enforcement  
+- **SAST:** Semgrep, SonarQube  
+- **SCA:** Trivy, Syft/Grype  
+- **IaC Security:** Checkov, KICS  
+- **Container Security:** Trivy, Docker Bench  
+- **SBOM generation & automation**  
+- **GitHub Actions / GitLab CI pipelines**  
+- **Secrets scanning & policy enforcement**
 
 ---
 
@@ -93,8 +93,8 @@ Actively looking for **DevSecOps / Backend roles in Milano**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamidElharouachi&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamidElharouachi&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hamid2010&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamid2010&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ---
